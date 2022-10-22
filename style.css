@@ -1,0 +1,11 @@
+.alert{
+	background: #4B8673;
+	color: white;
+	padding: 10px;
+    margin:0px 0px 20px 0px;
+	text-align: center;
+	border:1px solid #000000;
+}
+.gatemain{
+	background-image: url('images/favgate.png');
+}
